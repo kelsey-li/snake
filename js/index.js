@@ -15,7 +15,7 @@ $(function(){
 		})
 	}
 	huashe();
-
+    //食物
 	var dropFood = function() {
 		var x = Math.floor(Math.random()*20);		
 		var y = Math.floor(Math.random()*20);		
